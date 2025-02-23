@@ -1,2 +1,4 @@
-# deepseek-website
-website homework
+GROUP 
+MEMBERS
+COM/B/01-00122/2022
+COM/B/01-06943/2023
